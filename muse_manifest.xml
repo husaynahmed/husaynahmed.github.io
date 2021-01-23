@@ -1,0 +1,154 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="husaynahmedp.xyz" resolutions="1x" timestamp="1585870501915">
+  <folder name="css">
+    <file name="site_global.css" crc="423905772"/>
+    <file name="index.css" crc="34779421" ref="index"/>
+    <file name="iefonts_index.css" crc="264028315" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="ncbs_logo.pdf" crc="4024480622" seo="true" mt="1547859824000"/>
+    <file name="ncbs_logo2.pdf" crc="4024480622" seo="true" mt="1547859824000"/>
+    <file name="ncbs_logo4.pdf" crc="4024480622" seo="true" mt="1585704987000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index"/>
+  </folder>
+  <folder name="images">
+    <file name="husayn-favicon.ico" crc="416550785" ref="phone>index"/>
+    <file name="husayn_2380x276.jpg" crc="4237543400" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quoteicon.svg" crc="125172559" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="quoteicon_poster_.png" crc="4119580152" ref="phone>index"/>
+    <file name="imperial_logo.svg" crc="296269452" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="imperial_logo_poster_.png" crc="4230181674" ref="phone>index"/>
+    <file name="ncbs_logo.png" crc="3950224617" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ibab logo logotype curves -converted- (1)-crop-u9510.png" crc="4289632020" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loyola.png" crc="3980354834" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pop_gen.svg" crc="3853490511" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="pop_gen_poster_.png" crc="380890339" ref="phone>index"/>
+    <file name="transcriptomics.svg" crc="4137491858" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="transcriptomics_poster_.png" crc="3817566332" ref="phone>index"/>
+    <file name="genetics.svg" crc="29825253" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="genetics_poster_.png" crc="16830017" ref="phone>index"/>
+    <file name="func_genomics.svg" crc="396712621" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="func_genomics_poster_.png" crc="4041333679" ref="phone>index"/>
+    <file name="sys_bio.svg" crc="4170292873" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sys_bio_poster_.png" crc="394079091" ref="phone>index"/>
+    <file name="integrate.svg" crc="274343625" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="integrate_poster_.png" crc="112338086" ref="phone>index"/>
+    <file name="python_logo.png" crc="402014217" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ml.svg" crc="4260417190" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ml_poster_.png" crc="396679578" ref="phone>index"/>
+    <file name="webapp.svg" crc="262599295" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="webapp_poster_.png" crc="137369954" ref="phone>index"/>
+    <file name="u8204.png" crc="492814072" ref="phone>index"/>
+    <file name="u8204-r.png" crc="3816248053" ref="phone>index"/>
+    <file name="u8213.png" crc="180198638" ref="phone>index"/>
+    <file name="u8213-r.png" crc="250956439" ref="phone>index"/>
+    <file name="u9683.png" crc="317036678" ref="phone>index"/>
+    <file name="u9683-r.png" crc="476505576" ref="phone>index"/>
+    <file name="husayn_2768x557.jpg" crc="462848190" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ibab logo logotype curves -converted- (1)-crop-u9184.png" crc="4289632020" seo="true" ref="tablet>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u9341.png" crc="3943469697" ref="tablet>index"/>
+    <file name="u9341-r.png" crc="409401644" ref="tablet>index"/>
+    <file name="u9346.png" crc="354556963" ref="tablet>index"/>
+    <file name="u9346-r.png" crc="496365665" ref="tablet>index"/>
+    <file name="u9348.png" crc="3776429049" ref="tablet>index"/>
+    <file name="u9348-r.png" crc="45225307" ref="tablet>index"/>
+    <file name="husayn_2.jpg" crc="213871585" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="ibab logo logotype curves -converted- (1)-crop-u7025.png" crc="4289632020" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3169.png" crc="3943469697" ref="index"/>
+    <file name="u3169-r.png" crc="409401644" ref="index"/>
+    <file name="u7308.png" crc="354556963" ref="index"/>
+    <file name="u7308-r.png" crc="496365665" ref="index"/>
+    <file name="u8682.png" crc="3776429049" ref="index"/>
+    <file name="u8682-r.png" crc="45225307" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="master_a-master.css" crc="4283364551" ref="tablet>index"/>
+      <file name="index.css" crc="3978481988" ref="tablet>index"/>
+      <file name="iefonts_index.css" crc="137031479" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4007907521" seo="true" mt="1585867377770" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="3784480412" ref="phone>index"/>
+      <file name="index.css" crc="180394972" ref="phone>index"/>
+      <file name="iefonts_index.css" crc="3988441198" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3873086258" seo="true" mt="1585870366782" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="23940126" seo="true" mt="1585867346994" redirect="true"/>
+</manifest>
